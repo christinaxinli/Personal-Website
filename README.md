@@ -1,6 +1,6 @@
-# gatsby-starter-dimension
+# Personal Website
 
-**This is a starter for Gatsby.js V2.**
+**This is based on the starter for Gatsby.js V2 (see below).**
 
 **The older V1 version of this starter can be found on the v1 branch:**
 
