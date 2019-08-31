@@ -8,7 +8,8 @@ export const content = <div>
             <li><a href="https://www.instagram.com/christinali/" className="icon fa-instagram"><span className="label">Instagram</span></a></li>
             <li><a href="http://github.com/christinaxinli/" className="icon fa-github"><span className="label">GitHub</span></a></li>
           </ul>
-
+          
+          {/* the below doesn't show up in localhost but does when deployed */}
           <p></p>
           <script src="https://apps.elfsight.com/p/platform.js" defer></script>
           <div class="elfsight-app-fa339d9f-7e1c-41ce-ab40-d4210714960d"></div>

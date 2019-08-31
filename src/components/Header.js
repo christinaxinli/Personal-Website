@@ -4,7 +4,7 @@ import PropTypes from 'prop-types'
 const Header = (props) => (
     <header id="header" style={props.timeout ? {display: 'none'} : {}}>
         <div className="logo">
-            <span className="icon fa-diamond"></span>
+            <a href="https://open.spotify.com/artist/7KWo5lhqXiYmR8klsOGCOl?si=TyPP23UQRta3BC8-pJeCpQ" className="icon fa-spotify"><span className="label">Spotify</span></a>
         </div>
         <div className="content">
             <div className="inner">
