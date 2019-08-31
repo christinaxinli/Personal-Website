@@ -1,6 +1,6 @@
 import React from 'react'
 
-export const content = <div>
+export const content = <div align="center">
     <h2 className="major">Social Media Links</h2>
           
           <ul className="icons">
@@ -8,7 +8,7 @@ export const content = <div>
             <li><a href="https://www.instagram.com/christinali/" className="icon fa-instagram"><span className="label">Instagram</span></a></li>
             <li><a href="http://github.com/christinaxinli/" className="icon fa-github"><span className="label">GitHub</span></a></li>
           </ul>
-          
+
           {/* the below doesn't show up in localhost but does when deployed */}
           <p></p>
           <script src="https://apps.elfsight.com/p/platform.js" defer></script>
